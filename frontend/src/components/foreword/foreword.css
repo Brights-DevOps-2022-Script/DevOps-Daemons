@@ -1,6 +1,5 @@
 
 .vorwort {
-   width: 95%;
    margin: 0 auto;
     background-color: hsl(0, 0%, 100%);
     padding: 25px;
@@ -24,4 +23,7 @@
     margin: 20px 0;
     font-size: 17px;
     line-height: 25px;
+    height: 250px;
+    overflow: scroll;
+    overflow-x: hidden;
   }
